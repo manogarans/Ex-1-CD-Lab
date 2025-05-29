@@ -1,6 +1,7 @@
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 ### NAME : MANOGARAN S
 ### REG NO : 212223240081
+### DATE :23-04-2025
 # AIM :
 To write a C program to implement a symbol table.
 # ALGORITHM
